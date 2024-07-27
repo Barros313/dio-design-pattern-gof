@@ -2,7 +2,7 @@ package com.barros.gof;
 
 import com.barros.gof.singleton.*;
 
-public class Test {
+public class TestSingleton {
     public static void main(String[] args) {
         System.out.println("Testing Singleton Lazy");
 
