@@ -1,5 +1,7 @@
 package com.barros.gof;
 
+import com.barros.gof.singleton.*;
+
 public class Test {
     public static void main(String[] args) {
         System.out.println("Testing Singleton Lazy");
@@ -22,6 +24,5 @@ public class Test {
         System.out.println(lazyHolder);
         lazyHolder = SingletonLazyHolder.getInstance();
         System.out.println(lazyHolder);
-
     }
 }

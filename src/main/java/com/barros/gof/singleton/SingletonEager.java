@@ -1,4 +1,4 @@
-package com.barros.gof;
+package com.barros.gof.singleton;
 
 
 /**
